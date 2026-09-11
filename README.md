@@ -57,4 +57,5 @@ To build a strong career as a Cybersecurity Analyst by developing practical tech
 📫 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/saloni-verma-113324381]
-* 🐙 GitHub: [github.com/saloniv2007](https://github.com/saloniv2007)
+* 💻 LeetCode: [saloniv2007](https://leetcode.com/u/saloniv2007/)
+* 🛡️ TryHackMe: [saloniv2007](https://tryhackme.com/p/saloniv2007)
